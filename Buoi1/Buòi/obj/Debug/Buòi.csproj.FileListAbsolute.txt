@@ -1,0 +1,7 @@
+F:\Kỹ thuật lập trình\Buoi1\Buòi\bin\Debug\Buòi.exe.config
+F:\Kỹ thuật lập trình\Buoi1\Buòi\bin\Debug\Buòi.exe
+F:\Kỹ thuật lập trình\Buoi1\Buòi\bin\Debug\Buòi.pdb
+F:\Kỹ thuật lập trình\Buoi1\Buòi\obj\Debug\Buòi.csproj.AssemblyReference.cache
+F:\Kỹ thuật lập trình\Buoi1\Buòi\obj\Debug\Buòi.csproj.CoreCompileInputs.cache
+F:\Kỹ thuật lập trình\Buoi1\Buòi\obj\Debug\Buòi.exe
+F:\Kỹ thuật lập trình\Buoi1\Buòi\obj\Debug\Buòi.pdb

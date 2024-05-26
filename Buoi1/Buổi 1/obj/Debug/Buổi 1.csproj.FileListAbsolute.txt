@@ -1,0 +1,6 @@
+F:\Kỹ thuật lập trình\Buoi1\Buổi 1\bin\Debug\Buổi 1.exe.config
+F:\Kỹ thuật lập trình\Buoi1\Buổi 1\bin\Debug\Buổi 1.exe
+F:\Kỹ thuật lập trình\Buoi1\Buổi 1\bin\Debug\Buổi 1.pdb
+F:\Kỹ thuật lập trình\Buoi1\Buổi 1\obj\Debug\Buổi 1.csproj.CoreCompileInputs.cache
+F:\Kỹ thuật lập trình\Buoi1\Buổi 1\obj\Debug\Buổi 1.exe
+F:\Kỹ thuật lập trình\Buoi1\Buổi 1\obj\Debug\Buổi 1.pdb

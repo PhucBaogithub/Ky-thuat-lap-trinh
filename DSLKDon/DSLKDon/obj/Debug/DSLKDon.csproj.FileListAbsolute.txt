@@ -1,0 +1,7 @@
+F:\Kỹ thuật lập trình\DSLKDon\DSLKDon\obj\Debug\DSLKDon.csproj.AssemblyReference.cache
+F:\Kỹ thuật lập trình\DSLKDon\DSLKDon\obj\Debug\DSLKDon.csproj.CoreCompileInputs.cache
+F:\Kỹ thuật lập trình\DSLKDon\DSLKDon\bin\Debug\DSLKDon.exe.config
+F:\Kỹ thuật lập trình\DSLKDon\DSLKDon\bin\Debug\DSLKDon.exe
+F:\Kỹ thuật lập trình\DSLKDon\DSLKDon\bin\Debug\DSLKDon.pdb
+F:\Kỹ thuật lập trình\DSLKDon\DSLKDon\obj\Debug\DSLKDon.exe
+F:\Kỹ thuật lập trình\DSLKDon\DSLKDon\obj\Debug\DSLKDon.pdb

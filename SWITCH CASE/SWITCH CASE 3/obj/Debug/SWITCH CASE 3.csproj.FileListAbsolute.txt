@@ -1,0 +1,7 @@
+F:\Kỹ thuật lập trình\SWITCH CASE\SWITCH CASE 3\bin\Debug\SWITCH CASE 3.exe.config
+F:\Kỹ thuật lập trình\SWITCH CASE\SWITCH CASE 3\bin\Debug\SWITCH CASE 3.exe
+F:\Kỹ thuật lập trình\SWITCH CASE\SWITCH CASE 3\bin\Debug\SWITCH CASE 3.pdb
+F:\Kỹ thuật lập trình\SWITCH CASE\SWITCH CASE 3\obj\Debug\SWITCH CASE 3.csproj.AssemblyReference.cache
+F:\Kỹ thuật lập trình\SWITCH CASE\SWITCH CASE 3\obj\Debug\SWITCH CASE 3.csproj.CoreCompileInputs.cache
+F:\Kỹ thuật lập trình\SWITCH CASE\SWITCH CASE 3\obj\Debug\SWITCH CASE 3.exe
+F:\Kỹ thuật lập trình\SWITCH CASE\SWITCH CASE 3\obj\Debug\SWITCH CASE 3.pdb

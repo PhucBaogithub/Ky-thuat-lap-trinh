@@ -1,0 +1,7 @@
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 1\bin\Debug\IF ELSE 1.exe.config
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 1\bin\Debug\IF ELSE 1.exe
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 1\bin\Debug\IF ELSE 1.pdb
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 1\obj\Debug\IF ELSE 1.csproj.AssemblyReference.cache
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 1\obj\Debug\IF ELSE 1.csproj.CoreCompileInputs.cache
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 1\obj\Debug\IF ELSE 1.exe
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 1\obj\Debug\IF ELSE 1.pdb

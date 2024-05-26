@@ -1,0 +1,6 @@
+F:\Kỹ thuật lập trình\Buoi1\Buoi2\bin\Debug\Buoi2.exe.config
+F:\Kỹ thuật lập trình\Buoi1\Buoi2\bin\Debug\Buoi2.exe
+F:\Kỹ thuật lập trình\Buoi1\Buoi2\bin\Debug\Buoi2.pdb
+F:\Kỹ thuật lập trình\Buoi1\Buoi2\obj\Debug\Buoi2.csproj.CoreCompileInputs.cache
+F:\Kỹ thuật lập trình\Buoi1\Buoi2\obj\Debug\Buoi2.exe
+F:\Kỹ thuật lập trình\Buoi1\Buoi2\obj\Debug\Buoi2.pdb

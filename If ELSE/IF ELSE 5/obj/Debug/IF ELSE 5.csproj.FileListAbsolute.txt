@@ -1,0 +1,6 @@
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 5\bin\Debug\IF ELSE 5.exe.config
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 5\bin\Debug\IF ELSE 5.exe
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 5\bin\Debug\IF ELSE 5.pdb
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 5\obj\Debug\IF ELSE 5.csproj.CoreCompileInputs.cache
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 5\obj\Debug\IF ELSE 5.exe
+F:\Kỹ thuật lập trình\If ELSE\IF ELSE 5\obj\Debug\IF ELSE 5.pdb
